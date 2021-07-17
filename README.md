@@ -1,3 +1,3 @@
 # keyboard-profiles
 
-Jim's keyboard key mapping profiles.
+Jim's keyboard profiles.
